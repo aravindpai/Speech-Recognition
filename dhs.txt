@@ -1,0 +1,539 @@
+﻿DataHack Summit 2023 (DHS) India’s most Futuristic AI Conference organized by Analytics Vidhya.Analytics Vidhya is the World’s leading and India’s largest data science community.Analytics Vidhya is founded by Kunal Jain. Analytics Vidhya aims to build the next generation data science ecosystem across the globe.We have helped millions of people realize their data science dreams.We conduct hackathons, competitions, training & conferences and help companies find the right data science talent.
+DHS 2023 totally has 70+ AI Talks, 30+ Hack Sessions and 8+ Workshops.
+It's the 4th edition of DHS.Here is the DHS website: https://www.analyticsvidhya.com/datahack-summit-2023/.The previous DHS happened in 2017, 2018 and 2019 at Bengaluru. The 4 day conference is taking place on 2nd – 5th August, 2023 at NIMHANS Convention Centre, Bengaluru. The 4th day consists of day-long workshops. The workshops are held in a table-and-chair set up.The venues for the workshops will be announced shortly.The theme of DataHack Summit 2023 is “Infinite Possibilities: Exploring the Future with Generative AI”.This focus reflects the conference’s commitment to delve into the vast potential of Generative AI.It aims to explore how this technology can shape and revolutionize our future.1200+ attendees, 70+ AI talks, 30+ Hack sessions and 8+ workshops.Each workshop is 8 hours long from 9:30 AM IST to 5:30 PM IST.The focus areas of the conference are Generative AI,Machine Learning,Deep Learning,Cloud Computing,NLP,Data Engineering,Computer Vision,Data Visualization,ML Ops,Diffusion Model,Responsible AI,Large Language Model.If you are looking for group discounts,Please email us at dhs@analyticsvidhya.com or call on +91 9910464142 (Simran Jasbir Singh).DataHack Summit 2023 offers 2 types of tickets – Conference + HackDay and Conference + HackDay + Workshop.The actual price of the tickets for Conference + HackDay is INR 20000 and Conference + HackDay + Workshop is INR 32000.But, currently you can buy the tickets for Conference + HackDay at INR 12000 and Conference + HackDay + Workshop at INR 20800.Ticket prices are exclusive of GST. You can purchase tickets for DataHack Summit 2023 on the conference website as well i.e. https://www.analyticsvidhya.com/datahack-summit-2023/.Yes, Datahack Summit 2023 welcomes speakers from various backgrounds and expertise in data science and artificial intelligence.Visit the call for speakers page to submit your proposal.Hack Sessions are brief, expert-driven demonstrations showcasing data-driven solutions with minimal interaction, held in a relaxed setting.The difference between workshop and hack session is that Workshops are extensive, interactive sessions emphasizing hands-on learning and problem-solving in a formal environment, with a focus on individual attention.Essentially, Hack Sessions display solutions, while Workshops promote skill-building and comprehensive understanding. To become a sponsor for DataHack Summit 2023, please contact the conference organizers for more information.The format of DHS 2023 includes Live Keynotes, Power Talks, Hack Sessions, Generative AI Sessions, Workshops, Awards Evening, The AI Showcase.In the AI Showcase, check out the latest and the best in Artificial Intelligence from exciting startups, solution providers to bleeding edge hardware and software providers! Awards Evening is to recognize the best in AI, the awards night uplifts and inspires everyone present.This showcases the groundbreaking innovations and business in the AI landscape.Workshops are each day-long hands-on session aimed to make sure you learn Artificial Intelligence by doing it yourself.No more lectures – just code with the help of experts. Hack Session is no better way to understand AI than seeing an expert building it in front of your eyes.Each Hack Session is a 60 to 90 minutes long live interactive session with an expert working in front of you! Generative AI session is also a hack session focusing on Generative AI.Power talks are sessions where we can learn from the perspective of experienced industry leaders from across the globe.Each session packs years of experience and a ton of perspective on the impact of AI.Live keynotes are sessions where we are bringing together the brightest AI minds to share experiences, innovations, and cutting-edge case studies.Expect tangible and practical insights.The food and refreshment are free of cost at DHS.The conference is free of cost for the speakers and volunteers.We're proud to have had past sponsors like H2O.ai, Innosential, Nagarro, Analyttica, American Express, IBM, Intel, pi Ventures, Indian Startups, LTIMindtree, Aidaio, Ericsson, AWS, INKher, Mahindra Rise, Rinalytics Advisors who helped make previous editions of DataHack Summit a success.Join us and gain visibility, networking opportunities, and more.For any queries on DHS, you can reach out to us on E: dhs@analyticsvidhya.com | T: +91-8068342847, +91-8046107668.
+
+
+Here are the details of a few speakers at DHS 2023.
+The information about each speaker is given in key value pairs.
+
+
+The key “Speaker” indicates the Name of the speakers
+The key “Designation” denotes the Designation of the speakers
+The key “Linkedin” indicates Linkedin URL of the speakers
+
+
+You can access the final list of speakers on DHS 2023 website: https://www.analyticsvidhya.com/datahack-summit-2023/
+
+
+Speaker:Srikanth Velamakanni
+Designation:Co-Founder, Group Chief Executive and Vice Chairman at Fractal
+Linkedin:https://www.linkedin.com/in/srikanthvelamakanni/
+
+
+Speaker:Ranjani Mani
+Designation:Global Analytics Leader - CSS, Atlassian
+Linkedin:https://www.linkedin.com/in/ranjanimani/
+
+
+Speaker:Dr. Harshad Khadilkar
+Designation:Senior Scientist, Data & Decision Sciences at TCS Research
+Linkedin:https://www.linkedin.com/in/harshad-khadilkar-80609959/
+
+
+Speaker:Dr. Sarabjot Singh Anand
+Designation:Co-Founder and Chief Data Scientist at Tatras Data
+Linkedin:https://www.linkedin.com/in/sarabjot-singh-anand/
+
+
+Speaker:Dr. Kiran R
+Designation:ML Science & Engineering Leader at Microsoft
+Linkedin:https://www.linkedin.com/in/rkirana/
+
+
+Speaker:Anand S
+Designation:CEO at Gramener
+Linkedin:https://www.linkedin.com/in/sanand0/
+
+
+Speaker:Samiran Roy
+Designation:Data Scientist at CRED
+Linkedin:https://www.linkedin.com/in/samiranroy/
+
+
+Speaker:Munmun Das
+Designation:Principal / VP – Automation, Innovation & Digital Transformation at Accenture
+Linkedin:https://www.linkedin.com/in/munmun-das-5aa05316/
+
+
+Speaker:Premkumar (Prem) Rangarajan
+Designation:Principal AI/ML Specialist Solutions Architect at AWS
+Linkedin:https://www.linkedin.com/in/premkr/
+
+
+Speaker:Raghav Bali
+Designation:Staff Data Scientist at Delivery Hero
+Linkedin:https://www.linkedin.com/in/baliraghav/
+
+
+Speaker:Mathangi Sri Ramachandran
+Designation:Chief Data Officer at Yubi
+Linkedin:https://www.linkedin.com/in/mathangisri/
+
+
+Speaker:Ankur Verma
+Designation:Co-Founder & CEO at TrueGradient
+Linkedin:https://www.linkedin.com/in/ankur-verma-350b7844/
+
+
+Speaker:Anand Mishra
+Designation:CTO at Analytics Vidhya
+Linkedin:https://www.linkedin.com/in/anand-mishra-91763014/
+
+
+Speaker:Seema Ramachandra
+Designation:Customer Engineering Leader for Data Analytics & AI @ Google
+Linkedin:https://www.linkedin.com/in/seemaramachandra/
+
+
+Speaker:Sayak Paul
+Designation:Developer Advocate Engineer at Hugging Face
+Linkedin:https://www.linkedin.com/in/sayak-paul/
+
+
+Speaker:Rama Badrinath
+Designation:Principal Data Scientist at Meesho
+Linkedin:https://www.linkedin.com/in/rama-badrinath-00405712/
+
+
+Speaker:Sandhya Gopalan
+Designation:AI & MLOps Practice Head at EY
+Linkedin:https://www.linkedin.com/in/sandhya-gopalan-8953068/
+
+
+Speaker:Sudalai Rajkumar - SRK
+Designation:Head of AI & ML @ Growfin
+Linkedin:https://www.linkedin.com/in/sudalairajkumar/
+
+
+Speaker:Shahebaz Mohammad
+Designation:Machine Learning Engineer at Snorkel AI
+Linkedin:https://www.linkedin.com/in/shaz13/
+
+
+Speaker:Prashant Sahu
+Designation: Manager - Data Science Trainings at Analytics Vidhya
+Linkedin:https://www.linkedin.com/in/prashantksahu/
+
+
+Speaker:Apoorv Vishnoi
+Designation:Head - Training Vertical at Analytics Vidhya
+Linkedin:https://www.linkedin.com/in/apoorvvishnoi/
+
+
+Speaker:Dr. Vikas Agrawal
+Designation: Senior Principal Data Scientist at Oracle
+Linkedin:https://www.linkedin.com/in/vikasagrawalresearch/
+
+
+Speaker:Bhaskarjit Sarmah
+Designation:Vice President at BlackRock
+Linkedin:https://www.linkedin.com/in/bhaskarjitsarmah/
+
+
+Speaker:Ravi Theja
+Designation:Data Scientist II at Glance
+Linkedin:https://www.linkedin.com/in/ravidesetty/
+
+
+Speaker:Karthik Sai Marala
+Designation:Associate Engineering Manager at Glance
+Linkedin:https://www.linkedin.com/in/karthik-sai-marala-a1116786/
+
+
+Speaker:Abhishek Sanwaliya
+Designation:Principal - Data & Applied Sciences at Microsoft
+Linkedin:https://www.linkedin.com/in/abhishek-sanwaliya-854b6a80/
+
+
+Speaker:Ravi Theja
+Designation:Data Scientist II at Glance
+Linkedin:https://www.linkedin.com/in/ravidesetty/
+
+
+Speaker:Abhilash Majumder
+Designation:Senior HPC/Deep Learning Engineer - Intel SuperComputing Group
+Linkedin:https://www.linkedin.com/in/abhilash-majumder-1aa7b9138/
+
+
+Speaker:Logesh Kumar
+Designation:Lead Machine learning Engineer at Saama
+Linkedin:https://www.linkedin.com/in/logeshkumaru
+
+
+Speaker:Jayakumar Subramanian
+Designation: Senior Research Scientist at Adobe
+Linkedin:https://www.linkedin.com/in/jayakumar-subramanian-9198954
+
+
+Speaker:Anant Agarwal
+Designation:Data Science Manager at Nissan
+Linkedin:https://www.linkedin.com/in/agarwalanant/
+
+
+Speaker:Kartik Nighania
+Designation:MLOps Engineer at Typewise
+Linkedin:https://www.linkedin.com/in/kartik-nighania-765227145/
+
+
+Speaker:Parthiban Srinivasan
+Designation: Professor - Data Science & Engineering at IISER, Bhopal
+Linkedin:https://www.linkedin.com/in/parthiban-srinivasan-183608b/
+
+
+Speaker:Eshan Tiwari
+Designation: Data Science Lead at Google
+Linkedin:https://www.linkedin.com/in/eshan-tiwari-a03b8724/
+
+
+Speaker:Anmol Krishan Sachdeva
+Designation:Hybrid Cloud Architect at Google
+Linkedin:https://www.linkedin.com/in/greatdevaks/
+
+
+Speaker:Sourab Mangrulkar
+Designation:Machine Learning Engineer at Huggingface
+Linkedin:https://www.linkedin.com/in/sourab-m
+
+
+Speaker:Abhishek Kumar
+Designation:Director - Data Science at Publicis Sapient
+Linkedin:https://www.linkedin.com/in/meabhishekkumar/
+
+
+Speaker:Amit Kumar
+Designation:Senior Enterprise Architect - Generative AI, Deep Learning ,Reinforcement Learning at NVIDIA
+Linkedin:https://www.linkedin.com/in/amit-kumar-b4b43ab/
+
+
+Speaker:Kishore Ayyadevara
+Designation:Co-Founder & CTO at Awone
+Linkedin:https://www.linkedin.com/in/kishore-ayyadevara/
+
+
+Speaker:Hardik Meisheri
+Designation:Applied Scientist II at Amazon
+Linkedin:https://www.linkedin.com/in/hardikmeisheri/
+
+
+Speaker:Vijay Gabale
+Designation:Co-founder & Chief Product Officer at Infilect
+Linkedin:https://www.linkedin.com/in/vijaygabale/
+
+
+Speaker:Durga Gadiraju
+Designation:Founder and Director - ITVersity & Co-Founder and CTO - Analytiqs, Inc.
+Linkedin:https://www.linkedin.com/in/durga0gadiraju/
+
+
+Speaker:Raghu Raman A V
+Designation:SME - Big Data / Machine Learning on Big Data at Intellipaat
+Linkedin:https://www.linkedin.com/in/raghushining/
+
+
+Speaker:Arun Prakash Ashokan
+Designation:Associate Director Data Science at Novartis
+Linkedin:https://www.linkedin.com/in/arunprakashasokan/
+
+
+DHS 2023 totally has 70+ AI Talks, 30+ Hack Sessions and 8+ Workshops.
+Each workshop is 8 hours long from 9:30 AM IST to 5:30 PM IST.
+There can be more than 1 speaker for a session at DHS.
+The duration of the hack session is around 60 to 90 minutes.
+Hack Sessions are brief, expert-driven demonstrations showcasing data-driven solutions with minimal interaction, held in a relaxed setting.
+Generative AI session is also a hack session focusing on generative ai.
+
+
+Here are the details of a few sessions.
+You can access the complete list on DHS website: https://www.analyticsvidhya.com/datahack-summit-2023/
+
+
+The information about each session is given below in key value pairs.
+
+
+The key “Speaker” indicates the Name of the speakers
+The key “Designation” denotes the Designation of the speakers
+The key “Linkedin” indicates Linkedin URL of the speakers
+The key “Topic Name” denotes the title of the sessions
+The key “Type of Session” denotes the Type of Sessions i.e whether its a Powertalk or Keynote or Workshop or Panel Discussion or Hack
+
+
+Here are the few Generative AI session details:
+
+
+Speaker:Arun Prakash Ashokan
+Designation:Associate Director Data Science at Novartis
+Topic Name:Finance Copilot: Building a GenAI Solution Using Sensitive Enterprise Data
+Type of Session:Generative AI
+
+
+Speaker:Munmun Das
+Designation:Principal / VP – Automation, Innovation & Digital Transformation at Accenture
+Topic Name:Creating Realistic Avatars in the Metaverse Using Generative AI
+Type of Session:Generative AI
+
+
+Speaker:Ravi Theja
+Designation:Data Scientist II at Glance
+Topic Name:Building QA Systems using LlamaIndex
+Type of Session:Generative AI
+
+
+Speaker:Samiran Roy
+Designation:Data Scientist at CRED
+Topic Name:Fine-tuning a Language Model with RLHF
+Type of Session:Generative AI
+
+
+Speaker:Amit Kumar
+Designation:Senior Enterprise Architect - Generative AI, Deep Learning ,Reinforcement Learning at NVIDIA
+Topic Name:Build Enterprises-grade  Generative AI end to end solution
+Type of Session:Generative AI
+
+
+Speaker:Sourab Mangrulkar
+Designation:Machine Learning Engineer at Hugging Face
+Topic Name:Parameter-Efficient Fine-Tuning: Doing more with less
+Type of Session:Generative AI
+
+
+Speaker:Abhishek Kumar
+Designation:Director - Data Science at Publicis Sapient
+Topic Name:LLMOps - The Next Frontier of Scaling Generative AI Powered Applications
+Type of Session:Generative AI
+
+
+Speaker:Sayak Paul
+Designation:Developer Advocate Engineer at Hugging Face
+Topic Name:Democratizing Diffusion Models with Diffusers
+Type of Session:Generative AI
+
+
+Speaker:Shahebaz Mohammad
+Designation:Machine Learning Engineer at Snorkel AI
+Topic Name:Building AutoGPT Agent With LangChain
+Type of Session:Generative AI
+
+
+Speaker:Logesh Kumar
+Designation:Lead Machine learning Engineer at Saama
+Topic Name:Bespoke LLMs : Building and Scaling customized large language models
+Type of Session:Generative AI
+
+
+Speaker:Abhilash Majumder
+Designation:Senior HPC/Deep Learning Engineer - Intel SuperComputing Group
+Topic Name:Distributed Deep Learning Acceleration Framework optimization for Large Generative Models
+Type of Session:Generative AI
+
+
+Speaker:Abhishek Sanwaliya
+Designation:Principal - Data & Applied Sciences at Microsoft
+Topic Name:Winning the Race: Generative AI Adaption & Implementation
+Type of Session:Generative AI
+
+
+Here are the few Hack session details:
+
+
+Speaker:Anant Agarwal
+Designation:Data Science Manager at Nissan
+Topic Name:State-of-the-art Techniques for Time Series Forecasting
+Type of Session:Hack
+
+
+Speaker:Anand S
+Designation:CEO at Gramener
+Topic Name:Insights from Interaction
+Type of Session:Hack
+
+
+Speaker:Hardik Meisheri
+Designation:Applied Scientist II at Amazon
+Topic Name:Edge of AI with Reinforcement Learning
+Type of Session:Hack
+
+
+Speaker:Kishore Ayyadevara
+Designation:Co-Founder & CTO at Awone
+Topic Name:Deploying Computer Vision Models at Scale
+Type of Session:Hack
+
+
+Speaker:Bhaskarjit Sarmah
+Designation:Vice President at BlackRock
+Topic Name:Stock Embeddings - Representation Learning for Financial Securities
+Type of Session:Hack
+
+
+Speaker:Dr. Sarabjot Singh Anand
+Designation:Co-Founder and Chief Data Scientist at Tatras Data
+Topic Name:From Generative Models to Generative AI
+Type of Session:Hack
+
+
+Speaker:Apoorv Vishnoi
+Designation:Head - Training Vertical at Analytics Vidhya
+Topic Name:Creating Deep Learning Models using NoCode Platforms
+Type of Session:Hack
+
+
+Speaker:Raghav Bali
+Designation:Staff Data Scientist at Delivery Hero
+Topic Name:Building Robust and Scalable Recommendation Systems for Online Food Delivery
+Type of Session:Hack
+
+
+Speaker:Kartik Nighania
+Designation:MLOps Engineer at Typewise
+Topic Name:AI and ML Lifecycles: From Build to Deployment, Automation, and Retraining at Scale
+Type of Session:Hack
+
+
+Speaker:Sandhya Gopalan
+Designation:AI & MLOps Practice Head at EY
+Topic Name:Realistic and Practical Trusted AI for Enterprise
+Type of Session:Hack
+
+
+Speaker:Rama Badrinath
+Designation:Principal Data Scientist at Meesho
+Topic Name:How to build an in-house platform to conduct thousands of parallel A/B experiments?
+Type of Session:Hack
+
+
+Speaker:Anand Mishra
+Designation:CTO at Analytics Vidhya
+Topic Name:Demystifying GPT Models: Building Transformers from Scratch
+Type of Session:Hack
+
+
+Speaker:Ankur Verma
+Designation:Co-Founder & CEO at TrueGradient
+Topic Name:Scalable AI for Supply Chain using AutoML
+Type of Session:Hack
+
+
+Here is the few keynote session details.
+
+
+Speaker:Srikanth Velamakanni
+Designation:Co-Founder, Group Chief Executive and Vice Chairman at Fractal
+Topic Name: Generative AI and the future of the work
+Type of Session:Keynote
+
+
+Here are the details of few panel discussions:
+
+
+Speaker:Sudalai Rajkumar - SRK
+Designation:Head of AI & ML @ Growfin
+Topic Name:Life of a Data Scientist Before and After ChatGPT
+Type of Session:Panel Discussion
+
+
+Here are the few powertalk session details:
+
+
+Speaker:Mathangi Sri Ramachandran
+Designation:Chief Data Officer at Yubi
+Topic Name:Building Impactful Data Teams
+Type of Session:Powertalk
+
+
+Speaker:Vijay Gabale
+Designation:Co-founder & Chief Product Officer at Infilect
+Topic Name:Use of AI & Image Recognition in driving sales & profitability
+Type of Session:Powertalk
+
+
+Speaker:Ranjani Mani
+Designation:Global Analytics Leader - CSS, Atlassian
+Topic Name:Generative AI and I - Understanding what the new iPhone moment means to us
+Type of Session:Powertalk
+
+
+Speaker:Dr. Harshad Khadilkar
+Designation:Senior Scientist, Data & Decision Sciences at TCS Research
+Topic Name:Reimagining the Exploration-Exploitation Dilemma as a Generative AI Problem
+Type of Session:Powertalk
+
+
+Speaker:Parthiban Srinivasan
+Designation: Professor - Data Science & Engineering at IISER, Bhopal
+Topic Name:Generative AI: Transforming the Future of the Pharmaceutical Industry
+Type of Session:Powertalk
+
+
+Speaker:Seema Ramachandra
+Designation:Customer Engineering Leader for Data Analytics & AI @ Google
+Topic Name:Practicalities of AI Implementation at Scale
+Type of Session:Powertalk
+
+
+Speaker:Dr. Vikas Agrawal
+Designation: Senior Principal Data Scientist at Oracle
+Topic Name:My AI Application Works Well! Why Does It Break with New Data, in a New Geo, Next Year? Help!
+Type of Session:Powertalk
+
+
+Speaker:Ravi Theja
+Designation:Data Scientist II at Glance
+Topic Name:AI and Glance TV: Transforming Screensavers into Live Updates
+Type of Session:Powertalk
+
+
+Speaker:Dr. Kiran R
+Designation:ML Science & Engineering Leader at Microsoft
+Topic Name:Landing Models in Production at Scale
+Type of Session:Powertalk
+
+
+Here are the few workshop details-
+
+
+Speaker:Ullas Nambiar
+Designation: Managing Director AI Research and Product, Accenture
+Topic Name:AI for Business Leaders
+Type of Session:Workshop
+
+
+Speaker: Raghav Bali
+Designation: Staff Data Scientist at Delivery Hero
+Topic Name:Natural Language Processing using Generative models
+Type of Session:Workshop
+
+
+Speaker:Sanyam Bhutani
+Designation: Senior Data Scientist at H2O.ai
+Topic Name:Mastering LLMs: Training, Fine-tuning, and best practices
+Type of Session:Workshop
+
+
+Speaker:Eshan Tiwari
+Designation: Data Science Lead at Google
+Topic Name:Applied Machine Learning
+Type of Session:Workshop
+
+
+Speaker:Jayakumar Subramanian
+Designation: Senior Research Scientist at Adobe
+Topic Name:Solving real world problems using Reinforcement learning
+Type of Session:Workshop
+
+
+Speaker:Sandeep Singh
+Designation:Head of Applied AI, Beans.ai
+Topic Name:Mastering Stable Diffusion:Training and Industrial Best Practices
+Type of Session:Workshop
+
+
+Speaker:Anmol Krishan Sachdeva
+Designation:Hybrid Cloud Architect at Google
+Topic Name:Mastering MLOps-The Art of Productionizing Machine Learning Model
+Type of Session:Workshop
+
+
+Speaker:Durga Gadiraju
+Designation:Founder and Director, itversity
+Topic Name:Build Scalable Machine Learning models
+Type of Session:Workshop
